@@ -1,0 +1,1 @@
+worker: telegram_profile_auto_change.py
