@@ -92,7 +92,6 @@ pywhatkit==4.7
 pywin32==227
 PyYAML==5.4.1
 pyzmq==22.0.3
-requests==2.24.0
 retrying==1.3.3
 rfc3986==1.5.0
 scraperapi-sdk==0.2.2
