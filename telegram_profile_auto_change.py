@@ -15,7 +15,7 @@ api_hash = Key.api_hash
 
 app = Client('TPAC', api_id, api_hash)
 
-
+"""
 while True:
     try:
         times = input('Enter the wait change time (second | 1h --> 3600s recommended ): ')
@@ -35,7 +35,9 @@ while True:
 
 #
 
-
+"""
+times = 10
+kb = a
 
 def main():
 
